@@ -1,6 +1,7 @@
 Stock Market Analysis and Predictions
 
 📌 Project Overview
+
 This project provides a comprehensive data science workflow for analyzing and predicting the performance of major technology stocks. Using historical data from the last three years, the analysis explores market trends, risk-reward profiles, and future price probabilities for a portfolio of industry leaders.
 
 Stocks Analyzed
@@ -15,6 +16,7 @@ The project focuses on the Big Tech and semiconductor sectors, including:
 7) Tesla (TSLA)
 
 🛠️ Tech Stack
+
 Python: The core programming language.
 
 yfinance: Used to fetch real-time and historical market data from Yahoo Finance.
@@ -24,6 +26,7 @@ Pandas & NumPy: For data manipulation and numerical analysis.
 Matplotlib & Seaborn: For creating insightful visualizations and heatmaps.
 
 📊 Analysis Breakdown
+
 1. Data Retrieval and Preparation
 We began by pulling three years of historical adjusted closing prices. This timeframe was chosen to capture various market cycles, including recovery periods and volatility, providing a robust dataset for analysis.
 
